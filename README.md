@@ -1,23 +1,9 @@
 # Nicolas Baena
 
-**DevOps Manager · 10+ years shipping infrastructure at enterprise scale.**
-
-I've spent a decade building and running cloud infrastructure for some of the world's largest organizations — Maersk, Amadeus, UnitedHealth Group, The Home Depot — across logistics, healthcare, travel, and retail.
-Currently at **Publicis Sapient** leading DevOps, and building AI-driven infrastructure tooling on the side.
-
----
-
-## Experience
-
-| Role | Company | Highlights |
-|---|---|---|
-| **DevOps Manager** | Publicis Sapient *(2025 – Present)* | Enterprise DevOps at scale — Home Depot, UHG and more |
-| **Senior DevOps Cloud Architect** | NEORIS *(2024 – 2025)* | Cloud architecture and platform engineering |
-| **DevOps Tech Lead** | Fundamentl *(2024)* | Led DevOps practice, CI/CD, and cloud infrastructure |
-| **DevOps Specialist** | Giveth *(2023 – 2024)* | Infrastructure for a Web3 / cryptocurrency donation platform |
-| **Site Reliability Engineer** | Amadeus *(2023 – 2024)* | SRE for global travel tech systems |
-| **DevOps Manager → SR → Engineer** | A.P. Møller – Maersk *(2020 – 2023)* | 3.5 years growing through the DevOps org at the world's largest shipping company |
-| **Senior System Administrator** | BEWE Software *(2017 – 2020)* | Built the infrastructure foundation |
+<p align="left">
+  <i>DevOps Manager · building the infrastructure layer that makes AI work at org scale.<br>
+  10+ years shipping cloud at Maersk, Amadeus, UnitedHealth Group, The Home Depot.</i>
+</p>
 
 ---
 
@@ -45,7 +31,7 @@ Currently at **Publicis Sapient** leading DevOps, and building AI-driven infrast
 ## Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rolazo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&count_private=true" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=Rolazo&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rolazo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=6" />
 </p>
 
