@@ -9,7 +9,7 @@ Site reliability and DevOps engineer with **10+ years** shipping cloud infrastru
 ## Stack
 
 **Cloud & runtime**
-&nbsp;![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+&nbsp;![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
