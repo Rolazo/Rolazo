@@ -55,9 +55,7 @@ DevOps Manager with **10+ years** building and running cloud infrastructure for 
 
 ## Activity
 
-<p align="left">
-  <img height="170" src="https://streak-stats.demolab.com/?user=Rolazo&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&disable_animations=true" alt="GitHub contribution streak" />
-</p>
+<img width="100%" src="assets/stats-dark.svg" alt="GitHub stats: contributions and streak">
 
 ---
 
