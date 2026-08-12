@@ -1,6 +1,6 @@
 <img alt="Nicolas Baena — DevOps Manager / SRE. 10+ years: Maersk, Amadeus, UnitedHealth Group, The Home Depot." src="assets/hero-dark.svg" width="100%">
 
-DevOps Manager with **10+ years** running cloud at Fortune-500 scale — currently leading DevOps for **UnitedHealth Group** at [Publicis Sapient](https://www.publicissapient.com/). CI/CD, Kubernetes, and Terraform as products, not chores.
+DevOps Manager with **10+ years** building and running cloud infrastructure for Fortune-500 companies. Currently leading DevOps for **UnitedHealth Group** at [Publicis Sapient](https://www.publicissapient.com/).
 
 ---
 
@@ -53,17 +53,17 @@ DevOps Manager with **10+ years** running cloud at Fortune-500 scale — current
 
 ---
 
-## Building now
+## Activity
 
-- An **event-driven AI automation layer** on AWS — Lambda, ECS, Terraform, triggered by GitHub webhooks — so org-wide CI/CD and agent operations run without human intervention
-- **[baena-labs](https://github.com/baena-labs)** — governance-as-code for Claude Code: agents, skills, hooks, and rules synced across every repo in an org automatically
-- A **repo-split framework** — AI that decides when a domain needs one repo vs a family (`{domain}`, `{domain}-infra`, `{domain}-web`)
+<p align="left">
+  <img height="170" src="https://streak-stats.demolab.com/?user=Rolazo&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" alt="GitHub contribution streak" />
+</p>
 
 ---
 
 ## Credentials
 
-[DevOps — AWS + Kubernetes](https://rolazo.github.io/devops-ci-challenge/certification/) · [Google Cloud Architect & Data Engineering](https://www.udemy.com/certificate/UC-e094f88e-2e65-4ddc-a469-f93c00ba7de9/) · [Linux](https://www.udemy.com/certificate/UC-7XSN7RY8/) · English C1
+[DevOps — AWS + Kubernetes](https://rolazo.github.io/devops-ci-challenge/certification/) · [Google Cloud Architect & Data Engineering](https://www.udemy.com/certificate/UC-e094f88e-2e65-4ddc-a469-f93c00ba7de9/) · [Linux](https://www.udemy.com/certificate/UC-7XSN7RY8/)
 
 ---
 
