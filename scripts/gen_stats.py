@@ -39,7 +39,6 @@ def main():
     now = dt.datetime.now(dt.timezone.utc)
 
     total_contribs = 0
-    year_contribs = 0
     days = []  # (date, count) across all years, for streak
     for year in range(first_year, now.year + 1):
         start = f"{year}-01-01T00:00:00Z"
@@ -59,10 +58,7 @@ def main():
             """,
             {"u": USER, "from": start, "to": end},
         )["user"]["contributionsCollection"]
-        year_total = cc["contributionCalendar"]["totalContributions"]
-        total_contribs += year_total
-        if year == now.year:
-            year_contribs = year_total
+        total_contribs += cc["contributionCalendar"]["totalContributions"]
         for w in cc["contributionCalendar"]["weeks"]:
             for d in w["contributionDays"]:
                 days.append((d["date"], d["contributionCount"]))
@@ -76,24 +72,23 @@ def main():
         streak += 1
         cursor -= dt.timedelta(days=1)
 
-    rows = [
-        ("contributions (all time)", f"{total_contribs:,}"),
-        (f"contributions ({now.year})", f"{year_contribs:,}"),
-        ("current streak", f"{streak} day" + ("" if streak == 1 else "s")),
+    cols = [
+        (f"{total_contribs:,}", "contributions — all time"),
+        (f"{streak} day" + ("" if streak == 1 else "s"), "current streak"),
     ]
     updated = today.strftime("%b %d, %Y")
 
-    row_svg = ""
-    y = 118
-    for label, value in rows:
-        row_svg += (
-            f'  <text x="32" y="{y}" font-size="15" fill="#8b949e">{label}</text>\n'
-            f'  <text x="470" y="{y}" font-size="15" font-weight="600" '
-            f'fill="#58a6ff">{value}</text>\n'
+    col_svg = ""
+    for i, (value, label) in enumerate(cols):
+        x = 200 + i * 400
+        col_svg += (
+            f'  <text x="{x}" y="148" text-anchor="middle" font-size="36" '
+            f'font-weight="600" fill="#58a6ff">{value}</text>\n'
+            f'  <text x="{x}" y="180" text-anchor="middle" font-size="14" '
+            f'fill="#8b949e">{label}</text>\n'
         )
-        y += 32
 
-    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 230" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-label="GitHub stats: {total_contribs:,} contributions all time, {year_contribs:,} this year, {streak}-day streak">
+    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 230" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-label="GitHub stats: {total_contribs:,} contributions all time, {streak}-day current streak">
   <rect x="1" y="1" width="798" height="228" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
   <line x1="1" y1="40" x2="799" y2="40" stroke="#30363d" stroke-width="1"/>
   <circle cx="26" cy="20.5" r="6" fill="#30363d"/>
@@ -104,13 +99,14 @@ def main():
     <tspan fill="#58a6ff">$</tspan>
     <tspan fill="#8b949e" dx="8">gh stats</tspan>
   </text>
-{row_svg}  <text x="768" y="210" text-anchor="end" font-size="11" fill="#484f58">updated {updated}</text>
+  <line x1="400" y1="110" x2="400" y2="190" stroke="#30363d" stroke-width="1"/>
+{col_svg}  <text x="768" y="210" text-anchor="end" font-size="11" fill="#484f58">updated {updated}</text>
 </svg>
 """
     with open(OUT, "w") as f:
         f.write(svg)
     print(f"wrote {os.path.normpath(OUT)}: {total_contribs:,} contribs all time, "
-          f"{year_contribs:,} this year, {streak}-day streak")
+          f"{streak}-day streak")
 
 
 if __name__ == "__main__":
