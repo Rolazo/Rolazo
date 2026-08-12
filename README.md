@@ -35,6 +35,27 @@ DevOps Manager with **10+ years** building and running cloud infrastructure for 
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
+**Data & warehouse**
+&nbsp;![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square)
+
+**Networking**
+&nbsp;![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+![AWS VPC](https://img.shields.io/badge/AWS_VPC-FF9900?style=flat-square)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square)
+![Service Mesh](https://img.shields.io/badge/Service_Mesh-466BB0?style=flat-square&logo=istio&logoColor=white)
+
+**Security**
+&nbsp;![OAuth2](https://img.shields.io/badge/OAuth2-24292F?style=flat-square)
+![OIDC](https://img.shields.io/badge/OIDC-F78C40?style=flat-square&logo=openid&logoColor=white)
+![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat-square)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square)
+![Sentinel](https://img.shields.io/badge/Sentinel-000000?style=flat-square&logo=hashicorp&logoColor=white)
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-003A70?style=flat-square)
+
 **Observability**
 &nbsp;![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -50,8 +71,8 @@ DevOps Manager with **10+ years** building and running cloud infrastructure for 
 
 **AI tooling**
 &nbsp;![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 
 ---
 
