@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="Nicolas Baena — SRE / DevOps Engineer. 10+ years: Maersk, Amadeus, UnitedHealth Group, The Home Depot." src="assets/hero-dark.svg" width="100%">
-</picture>
+<img alt="Nicolas Baena — SRE / DevOps Engineer. 10+ years: Maersk, Amadeus, UnitedHealth Group, The Home Depot." src="assets/hero-dark.svg" width="100%">
 
 Site reliability and DevOps engineer with **10+ years** shipping cloud infrastructure at global scale — CI/CD, Kubernetes, and Terraform as products, not chores.
 
