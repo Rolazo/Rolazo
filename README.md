@@ -1,8 +1,8 @@
-<img alt="Nicolas Baena — Principal DevOps Engineer. 10+ years: Maersk, Amadeus, UnitedHealth Group, The Home Depot." src="assets/hero-dark.svg" width="100%">
+<img alt="Nicolas Baena — Principal DevOps / AI Infrastructure Engineer. 10+ years: Maersk, Amadeus, UnitedHealth Group, The Home Depot." src="assets/hero-dark.svg" width="100%">
 
 ## Hi, I'm Nicolas 👋
 
-I'm a **Principal DevOps Engineer** based in Colombia. For **10+ years** I've built and run cloud infrastructure for Fortune-500 companies — **Maersk**, **Amadeus**, **UnitedHealth Group**, **The Home Depot**. Today I work at the intersection of **platform engineering, SRE, and AI automation**, turning CI/CD pipelines, Kubernetes clusters, and Terraform codebases into reliable systems that run themselves. Currently leading DevOps for **UnitedHealth Group** at [Publicis Sapient](https://www.publicissapient.com/).
+I'm a **Principal DevOps / AI Infrastructure Engineer** based in Colombia. For **10+ years** I've built and run cloud infrastructure for Fortune-500 companies — **Maersk**, **Amadeus**, **UnitedHealth Group**, **The Home Depot**. Today I work where **DevOps meets AI**: building **LLM platforms, agentic pipelines, and the infrastructure that runs them** — turning CI/CD, Kubernetes, and Terraform into systems that operate themselves. Currently leading DevOps for **UnitedHealth Group** at [Publicis Sapient](https://www.publicissapient.com/).
 
 ---
 
@@ -14,6 +14,14 @@ I'm a **Principal DevOps Engineer** based in Colombia. For **10+ years** I've bu
 - **[Maersk](https://www.maersk.com/)** — the world's largest shipping & logistics company · built a secure AWS/GCP cloud data platform with SRE-grade availability and latency
 - **[Reckitt](https://www.reckitt.com/)** — global consumer-goods leader · AWS spend **−90%** ($100K → $5K) by eliminating 10+ years of unused infrastructure across 50+ accounts
 - Also — **−70% production incidents** and **+85% deploy success** as advisor to the CEO at [Fundamentl](https://fundamentlpartners.com/) · web3 platform reliability for [Giveth](https://giveth.io/) / [General Magic](https://www.generalmagic.io/)
+
+---
+
+## AI & LLM engineering
+
+- **LLM FinOps platform** (GCP) — designed and launched a cost-visibility system over **Vertex AI + BigQuery billing exports** that exposed inefficient training pipelines and cut ML spend **−60%**, with custom Terraform modules for predictive cost tracking
+- **Agentic DevOps** — an event-driven automation layer (AWS Lambda, ECS, GitHub webhooks) where **Claude-powered agents** handle org-wide CI/CD remediation and repo governance-as-code: agents, skills, hooks, and MCP servers synced across every repo
+- **Production RAG pipeline** (founder) — building a legal-AI platform with a multi-stage LLM pipeline: query routing, retrieval over a curated corpus, drafting, and a **validation layer with citation guarantees** — FastAPI, async workers, and evals wired into CI
 
 ---
 
@@ -71,10 +79,13 @@ I'm a **Principal DevOps Engineer** based in Colombia. For **10+ years** I've bu
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**AI tooling**
-&nbsp;![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
+**AI & LLM**
+&nbsp;![Claude API](https://img.shields.io/badge/Claude_API-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1F6FEB?style=flat-square)
 
 ---
 
