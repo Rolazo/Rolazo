@@ -1,6 +1,8 @@
-<img alt="Nicolas Baena — DevOps Manager / SRE. 10+ years: Maersk, Amadeus, UnitedHealth Group, The Home Depot." src="assets/hero-dark.svg" width="100%">
+<img alt="Nicolas Baena — Principal DevOps Engineer. 10+ years: Maersk, Amadeus, UnitedHealth Group, The Home Depot." src="assets/hero-dark.svg" width="100%">
 
-DevOps Manager with **10+ years** building and running cloud infrastructure for Fortune-500 companies. Currently leading DevOps for **UnitedHealth Group** at [Publicis Sapient](https://www.publicissapient.com/).
+## Hi, I'm Nicolas 👋
+
+I'm a **Principal DevOps Engineer** based in Colombia. For **10+ years** I've built and run cloud infrastructure for Fortune-500 companies — **Maersk**, **Amadeus**, **UnitedHealth Group**, **The Home Depot**. Today I work at the intersection of **platform engineering, SRE, and AI automation**, turning CI/CD pipelines, Kubernetes clusters, and Terraform codebases into reliable systems that run themselves. Currently leading DevOps for **UnitedHealth Group** at [Publicis Sapient](https://www.publicissapient.com/).
 
 ---
 
