@@ -1,13 +1,14 @@
-<img alt="Nicolas Baena — Principal DevOps / AI Infrastructure Engineer. 10+ years: Maersk, Amadeus, UnitedHealth Group, The Home Depot." src="assets/hero-dark.svg" width="100%">
+<img alt="Nicolas Baena — Forward Deployed Engineer · Principal DevOps / AI Infrastructure. 10+ years: Maersk, Amadeus, UnitedHealth Group, The Home Depot." src="assets/hero-dark.svg" width="100%">
 
 ## Hi, I'm Nicolas 👋
 
-I'm a **Principal DevOps / AI Infrastructure Engineer** based in Colombia. For **10+ years** I've built and run cloud infrastructure for Fortune-500 companies — **Maersk**, **Amadeus**, **UnitedHealth Group**, **The Home Depot**. Today I work where **DevOps meets AI**: building **LLM platforms, agentic pipelines, and the infrastructure that runs them** — turning CI/CD, Kubernetes, and Terraform into systems that operate themselves. Currently leading DevOps for **UnitedHealth Group** at [Publicis Sapient](https://www.publicissapient.com/).
+I'm a **Forward Deployed Engineer** and **Principal DevOps / AI Infrastructure Engineer** based in Colombia. For **10+ years** I've built and run cloud infrastructure for Fortune-500 companies — **Maersk**, **Amadeus**, **UnitedHealth Group**, **The Home Depot**. Today I work where **DevOps meets AI**: embedded directly with client teams, building **LLM platforms, agentic pipelines, and the infrastructure that runs them** — turning CI/CD, Kubernetes, and Terraform into systems that operate themselves. Currently a **Forward Deployed Engineer** at [Truelogic](https://www.truelogic.io/), working with **NRG (National Research Group)**.
 
 ---
 
 ## Track record
 
+- **[NRG (National Research Group)](https://www.nrgmr.com/)** — global market-research & data company · Forward Deployed Engineer via [Truelogic](https://www.truelogic.io/) (2025–present) · embedded with client engineering teams, owning cloud infrastructure and delivery end to end
 - **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** — the largest health insurer in the US · delivery continuity across **30K+ GitHub repos** · CI/CD turnaround cut from hours to **minutes** with auto-remediation tooling · **−60% ML spend** via a GCP LLM cost platform
 - **[The Home Depot](https://www.homedepot.com/)** — the largest home-improvement retailer in the US · Terraform IaC + **Sentinel policy enforcement** for enterprise-wide compliant deployments
 - **[Amadeus](https://amadeus.com/en)** — the software behind the world's airlines · app delivery time **−40%** · MTTR **−55%** · 24/7 SRE rotation on a global high-availability platform
