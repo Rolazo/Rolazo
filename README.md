@@ -8,8 +8,8 @@ I'm a **Forward Deployed Engineer** and **Principal DevOps / AI Infrastructure E
 
 ## Track record
 
-- **[NRG (National Research Group)](https://www.nrgmr.com/)** — global market-research & data company · Forward Deployed Engineer via [Truelogic](https://www.truelogic.io/) (2025–present) · embedded with client engineering teams, owning cloud infrastructure and delivery end to end
 - **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** — the largest health insurer in the US · delivery continuity across **30K+ GitHub repos** · CI/CD turnaround cut from hours to **minutes** with auto-remediation tooling · **−60% ML spend** via a GCP LLM cost platform
+- **[NRG (National Research Group)](https://www.nrgmr.com/)** — global market-research & data company · Forward Deployed Engineer via [Truelogic](https://www.truelogic.io/) · embedded with client engineering teams, owning cloud infrastructure and delivery end to end
 - **[The Home Depot](https://www.homedepot.com/)** — the largest home-improvement retailer in the US · Terraform IaC + **Sentinel policy enforcement** for enterprise-wide compliant deployments
 - **[Amadeus](https://amadeus.com/en)** — the software behind the world's airlines · app delivery time **−40%** · MTTR **−55%** · 24/7 SRE rotation on a global high-availability platform
 - **[Maersk](https://www.maersk.com/)** — the world's largest shipping & logistics company · built a secure AWS/GCP cloud data platform with SRE-grade availability and latency
