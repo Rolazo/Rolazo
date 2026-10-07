@@ -2,7 +2,7 @@
 
 ## Hi, I'm Nicolas 👋
 
-I'm a **Forward Deployed Engineer** and **Principal DevOps / AI Infrastructure Engineer** based in Colombia. For **10+ years** I've built and run cloud infrastructure for Fortune-500 companies — **Maersk**, **Amadeus**, **UnitedHealth Group**, **The Home Depot**. Today I work where **DevOps meets AI**: embedded directly with client teams, building **LLM platforms, agentic pipelines, and the infrastructure that runs them** — turning CI/CD, Kubernetes, and Terraform into systems that operate themselves. Currently a **Forward Deployed Engineer** at [Truelogic](https://www.truelogic.io/), working with **NRG (National Research Group)**.
+I'm a **Principal DevOps / AI Infrastructure Engineer** based in Colombia. For **10+ years** I've built and run cloud infrastructure for Fortune-500 companies — **Maersk**, **Amadeus**, **UnitedHealth Group**, **The Home Depot**. Today I work where **DevOps meets AI**: embedded directly with client teams, building **LLM platforms, agentic pipelines, and the infrastructure that runs them** — turning CI/CD, Kubernetes, and Terraform into systems that operate themselves. Currently a **Forward Deployed Engineer** at [Truelogic](https://www.truelogic.io/), working with **NRG (National Research Group)**.
 
 ---
 
