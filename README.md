@@ -1,4 +1,4 @@
-<img alt="Nicolas Baena — Forward Deployed Engineer · Principal DevOps / AI Infrastructure. 10+ years: Maersk, Amadeus, UnitedHealth Group, The Home Depot." src="assets/hero-dark.svg" width="100%">
+<img alt="Nicolas Baena — · Principal DevOps / AI Infrastructure. 10+ years: Maersk, Amadeus, UnitedHealth Group, The Home Depot." src="assets/hero-dark.svg" width="100%">
 
 ## Hi, I'm Nicolas 👋
 
