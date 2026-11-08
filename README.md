@@ -1,28 +1,31 @@
-<img alt="Nicolas Baena — · Principal DevOps / AI Infrastructure. 10+ years: Maersk, Amadeus, UnitedHealth Group, The Home Depot." src="assets/hero-dark.svg" width="100%">
+<img alt="Nicolas Baena — Senior Cloud Site Reliability Engineer Manager. 10+ years: Scotiabank, UnitedHealth Group, Amadeus, Maersk, The Home Depot." src="assets/hero-dark.svg" width="100%">
 
 ## Hi, I'm Nicolas 👋
 
-I'm a **Principal DevOps / AI Infrastructure Engineer** based in Colombia. For **10+ years** I've built and run cloud infrastructure for Fortune-500 companies — **Maersk**, **Amadeus**, **UnitedHealth Group**, **The Home Depot**. Today I work where **DevOps meets AI**: embedded directly with client teams, building **LLM platforms, agentic pipelines, and the infrastructure that runs them** — turning CI/CD, Kubernetes, and Terraform into systems that operate themselves. Currently a **Forward Deployed Engineer** at [Truelogic](https://www.truelogic.io/), working with **NRG (National Research Group)**.
+I'm a **Senior Cloud Site Reliability Engineer Manager** at [Scotiabank](https://www.scotiabank.com/ca/en/personal/bank-your-way/app-and-online/online-banking.html), based in Colombia. I lead a team responsible for the reliability, scalability, and resilience of critical services on **Google Cloud**. For **10+ years** I've built and run cloud infrastructure for global enterprises — **UnitedHealth Group**, **Amadeus**, **Maersk**, **The Home Depot** — in regulated and high-availability environments.
+
+---
+
+## What I focus on
+
+- **Reliability standards** — SLOs, error budgets, and blameless post-mortems
+- **Incident response** — root cause analysis and preventative measures that improve resilience
+- **Platform standards** — automation and compliance enforcement at enterprise scale
+- **Cloud cost management** — finding and removing wasted infrastructure and ML spend
+- **Team development** — coaching engineers and building strong teams
 
 ---
 
 ## Track record
 
-- **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** — the largest health insurer in the US · delivery continuity across **30K+ GitHub repos** · CI/CD turnaround cut from hours to **minutes** with auto-remediation tooling · **−60% ML spend** via a GCP LLM cost platform
-- **[NRG (National Research Group)](https://www.nrgmr.com/)** — global market-research & data company · Forward Deployed Engineer via [Truelogic](https://www.truelogic.io/) · embedded with client engineering teams, owning cloud infrastructure and delivery end to end
-- **[The Home Depot](https://www.homedepot.com/)** — the largest home-improvement retailer in the US · Terraform IaC + **Sentinel policy enforcement** for enterprise-wide compliant deployments
+- **[Scotiabank](https://www.scotiabank.com/ca/en/personal/bank-your-way/app-and-online/online-banking.html)** — Senior Cloud Site Reliability Engineer Manager · leading a Cloud SRE team responsible for the stability and resilience of Google Cloud infrastructure
+- **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** — the largest health insurer in the US · led DevOps across **30K+ GitHub repos** · CI/CD turnaround cut from hours to **minutes** with auto-remediation tooling · **−60% ML spend** via a GCP LLM cost platform
 - **[Amadeus](https://amadeus.com/en)** — the software behind the world's airlines · app delivery time **−40%** · MTTR **−55%** · 24/7 SRE rotation on a global high-availability platform
+- **[The Home Depot](https://www.homedepot.com/)** — the largest home-improvement retailer in the US · Terraform IaC + **Sentinel policy enforcement** for enterprise-wide compliant deployments
 - **[Maersk](https://www.maersk.com/)** — the world's largest shipping & logistics company · built a secure AWS/GCP cloud data platform with SRE-grade availability and latency
 - **[Reckitt](https://www.reckitt.com/)** — global consumer-goods leader · AWS spend **−90%** ($100K → $5K) by eliminating 10+ years of unused infrastructure across 50+ accounts
+- **[NRG (National Research Group)](https://www.nrgmr.com/)** — global market-research & data company · Forward Deployed Engineer via [Truelogic](https://www.truelogic.io/) · embedded with client engineering teams, owning cloud infrastructure and delivery end to end
 - Also — **−70% production incidents** and **+85% deploy success** as advisor to the CEO at [Fundamentl](https://fundamentlpartners.com/) · web3 platform reliability for [Giveth](https://giveth.io/) / [General Magic](https://www.generalmagic.io/)
-
----
-
-## AI & LLM engineering
-
-- **LLM FinOps platform** (GCP) — designed and launched a cost-visibility system over **Vertex AI + BigQuery billing exports** that exposed inefficient training pipelines and cut ML spend **−60%**, with custom Terraform modules for predictive cost tracking
-- **Agentic DevOps** — an event-driven automation layer (AWS Lambda, ECS, GitHub webhooks) where **Claude-powered agents** handle org-wide CI/CD remediation and repo governance-as-code: agents, skills, hooks, and MCP servers synced across every repo
-- **Production RAG pipeline** (founder) — building a legal-AI platform with a multi-stage LLM pipeline: query routing, retrieval over a curated corpus, drafting, and a **validation layer with citation guarantees** — FastAPI, async workers, and evals wired into CI
 
 ---
 
@@ -87,6 +90,14 @@ I'm a **Principal DevOps / AI Infrastructure Engineer** based in Colombia. For *
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-1F6FEB?style=flat-square)
+
+---
+
+## AI & LLM engineering
+
+- **LLM FinOps platform** (GCP) — designed and launched a cost-visibility system over **Vertex AI + BigQuery billing exports** that exposed inefficient training pipelines and cut ML spend **−60%**, with custom Terraform modules for predictive cost tracking
+- **Agentic DevOps** — an event-driven automation layer (AWS Lambda, ECS, GitHub webhooks) where **Claude-powered agents** handle org-wide CI/CD remediation and repo governance-as-code: agents, skills, hooks, and MCP servers synced across every repo
+- **Production RAG pipeline** (founder) — building a legal-AI platform with a multi-stage LLM pipeline: query routing, retrieval over a curated corpus, drafting, and a **validation layer with citation guarantees** — FastAPI, async workers, and evals wired into CI
 
 ---
 
