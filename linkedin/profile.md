@@ -2,11 +2,11 @@
 
 ## Headline
 
-Senior Cloud Site Reliability Engineering Manager | Engineering Leadership | Reliability Strategy, Operational Resilience, Google Cloud
+Senior Cloud Site Reliability Engineering Manager | SRE & DevOps Leadership | Reliability Strategy, Operational Resilience, Google Cloud
 
 ## About
 
-I've spent 10+ years running critical cloud infrastructure at companies where downtime is expensive, including UnitedHealth Group, Amadeus, Maersk, and The Home Depot, across healthcare, travel, logistics, and retail.
+I've spent 10+ years in DevOps and Site Reliability Engineering, running critical cloud infrastructure at companies where downtime is expensive, including UnitedHealth Group, Amadeus, Maersk, and The Home Depot, across healthcare, travel, logistics, and retail.
 
 I've worked at every level of the job: on a 24/7 SRE rotation for a global airline technology platform, as a Tech Lead responsible for production stability, and as a DevOps Manager for one of the largest engineering organizations in US healthcare. That experience shapes how I lead. I know what an incident looks like at 3 a.m., and I also know what the business needs to hear the next morning.
 
