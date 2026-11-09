@@ -16,7 +16,7 @@
   <text x="32" y="118" font-size="26" font-weight="600" fill="#e6edf3">Nicolas Baena</text>
   <text x="32" y="148" font-size="16" fill="#58a6ff">Senior Cloud Site Reliability Engineer Manager</text>
   <!-- credibility -->
-  <text x="32" y="180" font-size="14" fill="#8b949e">10+ yrs · Reliability · Incident Management · Google Cloud · Kubernetes</text>
+  <text x="32" y="180" font-size="14" fill="#8b949e">10+ yrs · DevOps · SRE · Incident Management · Google Cloud · Kubernetes</text>
   <text x="32" y="204" font-size="14" fill="#8b949e">Scotiabank · UnitedHealth Group · Amadeus · Maersk · The Home Depot</text>
   <!-- blinking cursor -->
   <rect x="655" y="134" width="9" height="18" fill="#58a6ff">

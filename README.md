@@ -1,8 +1,8 @@
-<img alt="Nicolas Baena — Senior Cloud Site Reliability Engineer Manager. 10+ years: Scotiabank, UnitedHealth Group, Amadeus, Maersk, The Home Depot." src="assets/hero-dark.svg" width="100%">
+<img alt="Nicolas Baena — Senior Cloud Site Reliability Engineer Manager. 10+ years in DevOps and SRE: Scotiabank, UnitedHealth Group, Amadeus, Maersk, The Home Depot." src="assets/hero-dark.svg" width="100%">
 
 ## Hi, I'm Nicolas 👋
 
-I'm a **Senior Cloud Site Reliability Engineer Manager** at [Scotiabank](https://www.scotiabank.com/ca/en/personal/bank-your-way/app-and-online/online-banking.html), based in Colombia. I lead a team responsible for the reliability, scalability, and resilience of critical services on **Google Cloud**. For **10+ years** I've built and run cloud infrastructure for global enterprises — **UnitedHealth Group**, **Amadeus**, **Maersk**, **The Home Depot** — in regulated and high-availability environments.
+I'm a **Senior Cloud Site Reliability Engineer Manager** at [Scotiabank](https://www.scotiabank.com/ca/en/personal/bank-your-way/app-and-online/online-banking.html), based in Colombia. I lead a team responsible for the reliability, scalability, and resilience of critical services on **Google Cloud**. For **10+ years** in **DevOps and SRE**, I've built and run cloud infrastructure for global enterprises — **UnitedHealth Group**, **Amadeus**, **Maersk**, **The Home Depot** — in regulated and high-availability environments.
 
 ---
 
