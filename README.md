@@ -2,7 +2,7 @@
 
 ## Hi, I'm Nicolas 👋
 
-I'm a **Senior Cloud Site Reliability Engineer Manager** at [Scotiabank](https://www.scotiabank.com/ca/en/personal/bank-your-way/app-and-online/online-banking.html), based in Colombia. I lead a team responsible for the reliability, scalability, and resilience of critical services on **Google Cloud**. For **10+ years** in **DevOps and SRE**, I've built and run cloud infrastructure for global enterprises — **UnitedHealth Group**, **Amadeus**, **Maersk**, **The Home Depot** — in regulated and high-availability environments.
+I'm a **Senior Cloud Site Reliability Engineer Manager** at [Scotiabank](https://www.scotiabank.com/ca/en/personal/bank-your-way/app-and-online/online-banking.html), based in Colombia. I lead a team responsible for the reliability, scalability, and resilience of critical services on **Google Cloud**. For **10+ years** in **DevOps and SRE**, I've built and run cloud infrastructure for global enterprises — **UnitedHealth Group**, **Amadeus**, **Maersk**, **The Home Depot** — in regulated and high-availability environments. I apply LLMs and agents to operations: automated remediation, AI cost governance, and reliability for AI workloads.
 
 ---
 
@@ -11,6 +11,7 @@ I'm a **Senior Cloud Site Reliability Engineer Manager** at [Scotiabank](https:/
 - **Reliability standards** — SLOs, error budgets, and blameless post-mortems
 - **Incident response** — root cause analysis and preventative measures that improve resilience
 - **Platform standards** — automation and compliance enforcement at enterprise scale
+- **AI for operations** — agent-driven CI/CD remediation and LLM cost and reliability on GCP
 - **Cloud cost management** — finding and removing wasted infrastructure and ML spend
 - **Team development** — coaching engineers and building strong teams
 
