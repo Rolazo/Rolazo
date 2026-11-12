@@ -1,8 +1,8 @@
-<img alt="Nicolas Baena — Senior Cloud Site Reliability Engineer Manager. 10+ years in DevOps and SRE: Scotiabank, UnitedHealth Group, Amadeus, Maersk, The Home Depot." src="assets/hero-dark.svg" width="100%">
+<img alt="Nicolas Baena — Senior Cloud Site Reliability Engineer Manager. 10+ years in DevOps and SRE: Scotiabank, Elevance Health, Amadeus, Maersk, The Home Depot." src="assets/hero-dark.svg" width="100%">
 
 ## Hi, I'm Nicolas 👋
 
-I'm a **Senior Cloud Site Reliability Engineer Manager** at [Scotiabank](https://www.scotiabank.com/ca/en/personal/bank-your-way/app-and-online/online-banking.html), based in Colombia. I lead a team responsible for the reliability, scalability, and resilience of critical services on **Google Cloud**. For **10+ years** in **DevOps and SRE**, I've built and run cloud infrastructure for global enterprises — **UnitedHealth Group**, **Amadeus**, **Maersk**, **The Home Depot** — in regulated and high-availability environments. I apply LLMs and agents to operations: automated remediation, AI cost governance, and reliability for AI workloads.
+I'm a **Senior Cloud Site Reliability Engineer Manager** at [Scotiabank](https://www.scotiabank.com/ca/en/personal/bank-your-way/app-and-online/online-banking.html), based in Colombia. I lead a team responsible for the reliability, scalability, and resilience of critical services on **Google Cloud**. For **10+ years** in **DevOps and SRE**, I've built and run cloud infrastructure for global enterprises — **Elevance Health**, **Amadeus**, **Maersk**, **The Home Depot** — in regulated and high-availability environments. I apply LLMs and agents to operations: automated remediation, AI cost governance, and reliability for AI workloads.
 
 ---
 
@@ -20,7 +20,7 @@ I'm a **Senior Cloud Site Reliability Engineer Manager** at [Scotiabank](https:/
 ## Track record
 
 - **[Scotiabank](https://www.scotiabank.com/ca/en/personal/bank-your-way/app-and-online/online-banking.html)** — Senior Cloud Site Reliability Engineer Manager · leading a Cloud SRE team responsible for the stability and resilience of Google Cloud infrastructure
-- **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** — the largest health insurer in the US · led DevOps across **30K+ GitHub repos** · CI/CD turnaround cut from hours to **minutes** with auto-remediation tooling · **−60% ML spend** via a GCP LLM cost platform
+- **[Elevance Health](https://www.elevancehealth.com/)** — the largest health insurer in the US · led DevOps across **30K+ GitHub repos** · CI/CD turnaround cut from hours to **minutes** with auto-remediation tooling · **−60% ML spend** via a GCP LLM cost platform
 - **[Amadeus](https://amadeus.com/en)** — the software behind the world's airlines · app delivery time **−40%** · MTTR **−55%** · 24/7 SRE rotation on a global high-availability platform
 - **[The Home Depot](https://www.homedepot.com/)** — the largest home-improvement retailer in the US · Terraform IaC + **Sentinel policy enforcement** for enterprise-wide compliant deployments
 - **[Maersk](https://www.maersk.com/)** — the world's largest shipping & logistics company · built a secure AWS/GCP cloud data platform with SRE-grade availability and latency
